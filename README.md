@@ -1,1 +1,1 @@
-# countdown-timer
+![GitHub Logo](/imgs/snapshot.png)
